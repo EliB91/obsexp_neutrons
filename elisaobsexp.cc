@@ -11,14 +11,14 @@
 
 // Toolkit inclundes
 #include "STClibrary.h"
-#include "events.h"
-#include "catalogs.h"
-#include "maptools.h"
-#include "projmap.h"
-#include "agntools.h"
-#include "scanner.h"
-#include "coverage.h"
-#include "common.h"
+#include "../events.h"
+#include "../catalogs.h"
+#include "../maptools.h"
+#include "../projmap.h"
+#include "../agntools.h"
+#include "../scanner.h"
+#include "../coverage.h"
+#include "../common.h"
 
 // ROOT
 #include "TRint.h"
